@@ -4,7 +4,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5532999526887)
 ![](welcome.gif)
 
-### I am a Data Scientist focused on data cleaning, analysis, structuring and processing, as well as developing predictive models and other processes that aim to support the data team in the evolution of products and services.
+### I am a student of Data Science focused on data cleaning, analysis, structuring and processing, as well as developing predictive models and other processes that aim to support the data team in the evolution of products and services.
 
 ## 📈Stats
 
